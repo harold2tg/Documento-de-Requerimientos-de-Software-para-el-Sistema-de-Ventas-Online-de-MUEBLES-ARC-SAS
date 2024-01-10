@@ -2,8 +2,7 @@
 
 
 
-
-Documento de Requerimientos de Software para el Sistema de Ventas Online de MUEBLES ARC SAS
+# Documento de Requerimientos de Software para el Sistema de Ventas Online de MUEBLES ARC SAS #
 
 
 
@@ -57,7 +56,7 @@ MUEBLES ARC SAS.
 
 
 
-Introducción.
+## Introducción ##
 
 
 
